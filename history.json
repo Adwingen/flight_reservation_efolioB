@@ -1,0 +1,190 @@
+{
+    "teste@gmail.com": [
+        {
+            "type": "search",
+            "origin": "LIS",
+            "destination": "JFK",
+            "date": "2024-12-15T17:00:01.300483",
+            "details": {
+                "passengers": 1,
+                "filters": {
+                    "price_max": "",
+                    "carrier": "",
+                    "max_duration": "",
+                    "stops": "Any",
+                    "departure_time": "",
+                    "arrival_time": "",
+                    "layover_airport": "",
+                    "nonStop": false
+                }
+            }
+        },
+        {
+            "type": "search",
+            "origin": "LIS",
+            "destination": "JFK",
+            "date": "2024-12-15T17:00:57.987168",
+            "details": {
+                "passengers": 1,
+                "filters": {
+                    "price_max": "812",
+                    "carrier": "",
+                    "max_duration": "",
+                    "stops": "Any",
+                    "departure_time": "",
+                    "arrival_time": "",
+                    "layover_airport": "",
+                    "nonStop": false
+                }
+            }
+        },
+        {
+            "type": "search",
+            "origin": "LIS",
+            "destination": "JFK",
+            "date": "2024-12-15T17:05:54.467318",
+            "details": {
+                "passengers": 1,
+                "filters": {
+                    "price_max": "",
+                    "carrier": "",
+                    "max_duration": "",
+                    "stops": "Any",
+                    "departure_time": "",
+                    "arrival_time": "",
+                    "layover_airport": "",
+                    "nonStop": false
+                }
+            }
+        },
+        {
+            "type": "search",
+            "origin": "LIS",
+            "destination": "JFK",
+            "date": "2024-12-15T17:10:10.989121",
+            "details": {
+                "passengers": 1,
+                "filters": {
+                    "price_max": "",
+                    "carrier": "",
+                    "max_duration": "",
+                    "stops": "Any",
+                    "departure_time": "",
+                    "arrival_time": "",
+                    "layover_airport": "",
+                    "nonStop": false
+                }
+            }
+        },
+        {
+            "type": {
+                "type": "search",
+                "origin": "LIS",
+                "destination": "JFK",
+                "date": "2024-12-15T20:34:25.596876",
+                "details": {
+                    "passengers": 1,
+                    "filters": {
+                        "price_max": "",
+                        "carrier": "",
+                        "max_duration": "",
+                        "stops": "Any",
+                        "departure_time": "",
+                        "arrival_time": "",
+                        "layover_airport": "",
+                        "nonStop": false
+                    }
+                }
+            },
+            "details": {
+                "origin": "N/A",
+                "destination": "N/A",
+                "passengers": "N/A",
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T20:34:25.597956"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "JFK",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T20:41:57.842738"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "ATL",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T20:44:13.702142"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "ATL",
+                "passengers": 1,
+                "price_max": "2400"
+            },
+            "date": "2024-12-15T20:44:52.489162"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "JFK",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T21:11:12.995903"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "BCN",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T21:13:36.939651"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "JFK",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T22:46:30.215230"
+        }
+    ],
+    "grande@email.pt": [
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "JFK",
+                "passengers": 1,
+                "price_max": "N/A"
+            },
+            "date": "2024-12-15T22:53:38.349203"
+        },
+        {
+            "type": "search",
+            "details": {
+                "origin": "LIS",
+                "destination": "JFK",
+                "passengers": 1,
+                "price_max": "500"
+            },
+            "date": "2024-12-15T22:54:03.371642"
+        }
+    ]
+}
